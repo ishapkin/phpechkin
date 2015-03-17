@@ -2,7 +2,7 @@
   "name": "dbatishchev/pechkin-api",
   "description": "PHP API for Pechkin Mail Api",
   "license": "MIT",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "keywords": ["api","pechkin"],
   "homepage": "https://github.com",
   "authors": [
